@@ -76,9 +76,7 @@ The dashboard contains:
 
 ![5](https://github.com/Dina-Hosny/Telco-Customer-Churn-Analysis-using-Power-BI/assets/46838441/7f18c59b-15e0-4b2e-a7f5-0488db0d4e91)
 
-# Demo
 
-https://github.com/Dina-Hosny/Telco-Customer-Churn-Analysis-using-Power-BI/assets/46838441/04f31fc5-f387-4a52-8cf4-7b364209b42c
 
 
 
